@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+    div a:hover {
+      transition: all 1s;
+      border: 0;
+      color: cyan;
+    }
+    body {
+        background-color: rgb(92, 0, 128);
+      }
+
+  }
+  @media screen and (max-width: 1200px) {
+    ul li.menu { 
+        display: none;
+        
+    }
+}
