@@ -117,13 +117,6 @@ ul li a {
     font-size: 1.2em;
 }
 
-ul li {
-    list-style-type: none;
-    border: 5px dashed rgb(241, 141, 8);
-    margin: 10px;
-    padding: 10px;
-}
-
 .menu li:hover {
     background-color: black;
 }
